@@ -33,6 +33,7 @@ def min_idlis_to_distribute(idlis_held):
 
 This code iterates through the `idlis_held` list, calculates the imbalance (remainder after dividing by 2) for each person, sums them for the total imbalance, and checks if it's even. If even, it returns the total imbalance as the minimum number to distribute. If odd, it returns -1 indicating an impossible scenario.
 
+
 **User**:
 
 Give example test cases
@@ -71,6 +72,7 @@ Give example test cases
 - Explanation: There's no way to distribute idlis and make 1 person have an even number.
 - Expected Output: `1`
 
+
 **User**:
 
 The answer of first testcase should be 2 to make all idlis even
@@ -91,6 +93,7 @@ The reason for the mistake is that the initial analysis only considered if each 
 
 The rest of the test cases and the code logic remain accurate.
 
+
 **User**:
 
 give efficient code for this
@@ -109,7 +112,8 @@ Here are some alternative approaches, but they might not be significantly more e
 
 Overall, the provided code strikes a good balance between efficiency and readability for this problem.
 
-[https://lh3.googleusercontent.com/a/default-user=s256](https://lh3.googleusercontent.com/a/default-user=s256)
+
+**User**:
 
 Give testcases to run this
 
