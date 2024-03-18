@@ -1,6 +1,6 @@
 # Assignment_1
 
-[https://lh3.googleusercontent.com/a/default-user=s256](https://lh3.googleusercontent.com/a/default-user=s256)
+**User**:
 
 Solve this problem: Idli distribution
 You are the benevolent ruler of Dosapuri, and today you're distributing idlis. Your subjects are in a line, and some of them already have some idlis in their hand. You must distribute as few idlis as possible according to the following rules:
@@ -33,7 +33,7 @@ def min_idlis_to_distribute(idlis_held):
 
 This code iterates through the `idlis_held` list, calculates the imbalance (remainder after dividing by 2) for each person, sums them for the total imbalance, and checks if it's even. If even, it returns the total imbalance as the minimum number to distribute. If odd, it returns -1 indicating an impossible scenario.
 
-[https://lh3.googleusercontent.com/a/default-user=s256](https://lh3.googleusercontent.com/a/default-user=s256)
+**User**:
 
 Give example test cases
 
@@ -71,7 +71,7 @@ Give example test cases
 - Explanation: There's no way to distribute idlis and make 1 person have an even number.
 - Expected Output: `1`
 
-[https://lh3.googleusercontent.com/a/default-user=s256](https://lh3.googleusercontent.com/a/default-user=s256)
+**User**:
 
 The answer of first testcase should be 2 to make all idlis even
 
@@ -91,7 +91,7 @@ The reason for the mistake is that the initial analysis only considered if each 
 
 The rest of the test cases and the code logic remain accurate.
 
-[https://lh3.googleusercontent.com/a/default-user=s256](https://lh3.googleusercontent.com/a/default-user=s256)
+**User**:
 
 give efficient code for this
 
