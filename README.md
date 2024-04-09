@@ -26,6 +26,7 @@
         <li><a href="#Assignment_2">Assignment 2</a></li>
         <li><a href="#Assignment_3">Assignment 3</a></li>
         <li><a href="#Assignment_4">Assignment 4</a></li>
+        <li><a href="#Assignment_5">Assignment 5</a></li>
       </ul>
     </li>
   </ol>
@@ -70,3 +71,10 @@ With the help of Generative AI, I understood Markov Chain and its use in automat
 The chat is in the Assignment_4 folder.
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+
+### Assignment_5
+
+Explained GenAI the diamond game, verified that it understood the rules and with its help implemented the game. Take a look at the Latex pdf which is a report describing my learnings!
+
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+
